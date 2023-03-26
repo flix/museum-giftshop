@@ -1,4 +1,4 @@
-# museum
+# museum-giftshop
 
 Enter some useful information.
 
