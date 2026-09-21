@@ -1,7 +1,7 @@
 [package]
-version     = "2.0.1"
+version     = "2.0.2"
 flix        = "0.76.2"
 repository  = "github:flix/museum-giftshop"
 
 [dependencies]
-"github:flix/museum-clerk" = { version = "2.1.1", mount = "clerk" }
+"github:flix/museum-clerk" = { version = "2.1.2", mount = "clerk" }
